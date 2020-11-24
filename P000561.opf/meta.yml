@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W5331
   title: མཁས་གྲུབ་རྒྱ་མཚོའི་རྣམ་ཐར
-  volume: ''
+  volume:
+    49a532680b924162bc7df73627d26114:
+      image_group_id: I1KG2774
+      title: Volume 1 of mkhas grub rgya mtsho'i rnam thar
+      volume_number: 1
+      total_pages: 536
   author: ''
+ebook_metadata:
+  title: མཁས་གྲུབ་རྒྱ་མཚོའི་རྣམ་ཐར
+  author: ''
+  sku: P000561
+  cover: cover.jpg
+  layers:
+  - pagination
